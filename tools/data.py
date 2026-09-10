@@ -58,7 +58,7 @@ CASES = [
  "slug": "kines-paris-maison-du-peps",
  "resume_carte": "Deux sites et le référencement continu d'un réseau de cinq cabinets de kiné et deux salles de sport-santé à Paris.", "num": "01",
  "nom": "Kinés Paris & Maison du Peps",
- "client": "Jean-Charles Laporte — 5 cabinets de kiné, 2 salles de sport-santé",
+ "client": "Jean-Charles Février — 5 cabinets de kiné, 2 salles de sport-santé",
  "client_court": "Kinés Paris",
  "annee": "2026 → aujourd'hui",
  "role": "Deux sites + SEO/GEO en continu",
@@ -69,7 +69,7 @@ CASES = [
  "desc": "Deux sites et une stratégie SEO/GEO pour un réseau de 5 cabinets de kinésithérapie et 2 salles de sport-santé : 100 pages, 46 articles, plus de 4 000 visites mensuelles six mois après la mise en ligne.",
  "resume_liste": "Jean-Charles dirige cinq cabinets de kiné et deux salles de sport-santé à Paris et dans le Val-de-Marne, avec 51 praticiens. Chaque adresse vivait sur sa fiche Google et son agenda Doctolib, sans rien pour capter les recherches locales ni les recherches par pathologie. J'ai construit les deux sites et je suis leur référencement chaque mois.",
  "resume_home": "Deux sites pour un réseau de cinq cabinets de kiné et deux salles de sport-santé, plus le SEO/GEO suivi mois après mois. Cent pages, 46 articles, une version anglaise complète.",
- "probleme": "Jean-Charles Laporte dirige cinq cabinets de kinésithérapie et deux salles de sport-santé à Paris et dans le Val-de-Marne, avec 51 praticiens répartis entre les établissements. Chaque adresse vivait sur sa propre fiche Google et son propre agenda Doctolib, sans site capable de capter les recherches locales ni les recherches par pathologie — « balnéothérapie Le Perreux », « rééducation périnéale Paris », « salle de sport senior ». Il fallait aussi séparer nettement les deux marques, le soin remboursé d'un côté et le sport-santé de l'autre, tout en les faisant se renvoyer des patients.",
+ "probleme": "Jean-Charles Février dirige cinq cabinets de kinésithérapie et deux salles de sport-santé à Paris et dans le Val-de-Marne, avec 51 praticiens répartis entre les établissements. Chaque adresse vivait sur sa propre fiche Google et son propre agenda Doctolib, sans site capable de capter les recherches locales ni les recherches par pathologie — « balnéothérapie Le Perreux », « rééducation périnéale Paris », « salle de sport senior ». Il fallait aussi séparer nettement les deux marques, le soin remboursé d'un côté et le sport-santé de l'autre, tout en les faisant se renvoyer des patients.",
  "citation": "La kiné qui s'adapte à vous, pas l'inverse.",
  "fait": [
    "Construit deux sites HTML statiques distincts : kinesparis.fr (62 pages au sitemap) et maisondupeps.com (38 pages), sans CMS ni framework.",
